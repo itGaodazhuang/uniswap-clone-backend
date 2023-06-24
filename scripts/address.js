@@ -1,0 +1,5 @@
+export const booTokenAddress = "0x687bB6c57915aa2529EfC7D2a26668855e022fAE"
+export const lifeTokenAddress = "0x49149a233de6E4cD6835971506F47EE5862289c1"
+export const singleSwapTokenAddress = "0xAe2563b4315469bF6bdD41A6ea26157dE57Ed94e"
+export const swapMultiHopAddress = "0x30426D33a78afdb8788597D5BFaBdADc3Be95698"
+export const userStorageData = "0x85495222Fd7069B987Ca38C2142732EbBFb7175D"
